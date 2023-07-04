@@ -6,7 +6,9 @@ _This project implements a backend service that exposes a RESTful API endpoint f
 **Requirements**
 
 Python 3.6 or higher
+
 Flask web framework
+
 NLTK library
 
 **Setup**
